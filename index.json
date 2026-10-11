@@ -1,0 +1,11 @@
+{
+  "org": "certifi",
+  "repo": "extract-nss-root-certs",
+  "versions": [
+    {
+      "commit": "96377fcbd154d76e5553359176f4957dfa8d63f9",
+      "tag": "v0.1.0",
+      "parsed_at": "2026-10-11T20:31:03.947389+00:00"
+    }
+  ]
+}
