@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "extract-nss-root-certs",
+  "versions": [
+    {
+      "commit": "96377fcbd154d76e5553359176f4957dfa8d63f9",
+      "parsed_at": "2026-10-11T20:27:52.124201+00:00",
+      "tag": "v0.1.0",
+      "filetree": "filetree/96377fcbd154d76e5553359176f4957dfa8d63f9.nq.gz",
+      "blobs": [
+        "blob/959799886ed42fde21c6b185e2a2bf173a14f3a0.nq.gz",
+        "blob/2cf1e53f03765415e95d24e8e72a0b5067f45b20.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
